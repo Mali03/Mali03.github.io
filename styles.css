@@ -12,16 +12,34 @@
     z-index: 1000;
 }
 
-.header .logo {
-    flex: 1;
-    margin-left: 10%;
-    max-height: 80px;
-    max-width: 150px;
+.header a {
+    display: flex;
+    align-items: center;
 }
 
 .header .logo {
     max-height: 80px;
     max-width: 150px;
+    height: auto;
+    width: auto;
+    margin-left: 70px;
+}
+
+.engineImg {
+    display: block;
+    margin: 20px auto;
+    max-height: 400px;
+    max-width: 600px;
+    height: auto;
+    width: auto;
+}
+
+.header .title {
+    max-height: 80px;
+    max-width: 150px;
+    height: auto;
+    width: auto;
+    margin-left: 20px;
 }
 
 .header .buttons {
@@ -62,7 +80,6 @@
     justify-content: center;
     align-items: center;
     margin-top: 20px;
-    /* Üst boşluk ekler */
 }
 
 hr {
