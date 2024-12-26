@@ -114,6 +114,33 @@ p {
     font-size: 18px;
 }
 
+.rows {
+    color: white;
+    background-color: #303030;
+    width: 150px
+}
+
+th {
+    padding: 20px;
+    font-size: 18px;
+    text-align: center;
+}
+
+td {
+    padding: 10px;
+    font-size: 18px;
+    text-align: center;
+}
+
+.columnWh {
+    color: white;
+    background-color: #8f8b8b;
+}
+
+.texts {
+    color: white;
+}
+
 body {
     background-color: #474747;
     padding-top: 90px;
