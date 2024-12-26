@@ -43,6 +43,15 @@
     width: auto;
 }
 
+.rollcageImg {
+    display: block;
+    margin: 20px auto;
+    max-height: 300px;
+    max-width: 500px;
+    height: auto;
+    width: auto;
+}
+
 .header .title {
     max-height: 80px;
     max-width: 150px;
