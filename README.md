@@ -18,7 +18,7 @@ This website allows you to write your opinion or write some features about a car
 git clone https://github.com/Mali03/Mali03.github.io
 ```
 
-2.  Open the index.html and that's it:
+2.  Open the index.html and that's it
 
 ## License
 
